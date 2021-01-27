@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Hello Batch 8");
 
         System.out.println("GitHub sucks ");
+
+        System.out.println("Welcome");
     }
 }
